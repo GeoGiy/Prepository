@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Пример использования CSS правила @keyframes</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+  <body>
+<div id="columns">
+  <figure>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkz-tclx9OAlq2MzO_Bh8QlHxhXodZfW3SEofNgR_&sg">
+  <figcaption>Cinderella wearing European fashion of the mid-1860’s</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://mirpozitiva.ru/wp-content/uploads/2019/11/1472042660_10.jpg">
+  <figcaption>Rapunzel, clothed in 1820’s period fashion</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://st3.depositphotos.com/3047333/12924/i/450/depositphotos_129246006-stock-photo-kitten-sitting-in-flowers.jpg">
+  <figcaption>Belle, based on 1770’s French court fashion</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://www.imgonline.com.ua/examples/bee-on-daisy.jpg">
+  <figcaption>Mulan, based on the Ming Dynasty period</figcaption>
+  </figure>
+  
+   <figure>
+   <img src="https://wallpapershome.ru/images/pages/pic_v/21479.jpg">
+  <figcaption>Sleeping Beauty, based on European fashions in 1485</figcaption>
+  </figure>
+  
+   <figure>
+   <img src="https://devby.io/storage/images/59/38/59/11/derived/05ff293929e38a14973ba4cf1c59269d.jpg">
+  <figcaption>Pocahontas based on 17th century Powhatan costume</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://mirpozitiva.ru/wp-content/uploads/2019/11/1472042719_15.jpg">
+  <figcaption>Snow White, based on 16th century German fashion</figcaption>
+  </figure> 
+  
+   <figure>
+  <img src="https://wonder-day.com/wp-content/uploads/2020/04/wonder-day-images-rainbow-37-1024x576.jpg">
+  <figcaption>Ariel wearing an evening gown of the 1890’s</figcaption>
+  </figure>
+  
+    <figure>
+  <img src="https://tableforchange.com/wp-content/uploads/2020/06/%D0%9E%D0%B1%D0%BE%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%B5%D0%BA-%D0%BD%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-12-%D0%BB%D0%B5%D1%82-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-16.jpg">
+    <figcaption>Tiana wearing the <i>robe de style</i> of the 1920’s</figcaption>
+  </figure> 
+  <small>Art &copy; <a href="//clairehummel.com">Claire Hummel</a></small>
+  </div>
+
+</body>
+</html>
